@@ -1,7 +1,5 @@
 # Repositório de Exercícios Práticos com SQL
 
-Este repositório reúne exercícios práticos com SQL, desenvolvidos como parte do curso de Engenharia de Dados do Professor Fernando Amaral. Aqui, você encontrará soluções para cinco atividades que abordam diferentes aspectos de consultas e análises de dados em SQL.
-
 ## 📚 Conteúdo
 Este repositório contém os seguintes exercícios:
 
