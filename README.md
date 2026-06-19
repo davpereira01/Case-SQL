@@ -13,21 +13,13 @@ Este repositório contém os seguintes exercícios:
 
 ### 3️⃣ **Top 10 Produtos Mais Caros**
 - **Objetivo**: Descobrir os 10 produtos com os maiores preços.
-- **Detalhes**: Listar os produtos ordenados pelo preço de forma decrescente.
+- **Detalhes**: Listar os produtos ordenados pelo preço.
 
 ### 4️⃣ **Diferença de Faturamento por Fornecedor**
 - **Objetivo**: Analisar a diferença de faturamento total por fornecedor entre os anos de 2021 e 2020.
 - **Detalhes**: Avaliar tendências e mudanças no faturamento anual.
 
 ### 5️⃣ **Dashboard de Categorias Mais Vendidas**
-- **Objetivo**: Auxiliar um analista na criação de um dashboard com as categorias mais vendidas por ano.
+- **Objetivo**: Criar um dashboard por Power BI com as categorias mais vendidas por ano.
 - **Detalhes**: Listar as 5 categorias mais vendidas de cada ano.
-
----
-
-## 🛠️ Ferramentas Necessárias
-- **Banco de Dados**: Os exercícios foram projetados para serem executados em **PostgreSQL**, mas podem ser adaptados para outros SGBDs com pequenos ajustes.
-- **Ferramentas de Gerenciamento de Banco de Dados**: Recomenda-se o uso de ferramentas como **pgAdmin**, **DBeaver** ou **DataGrip** para execução e análise das consultas.
-
----
 
