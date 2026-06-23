@@ -23,3 +23,4 @@ Este repositório contém os seguintes exercícios:
 - **Objetivo**: Criar um dashboard por Power BI com as categorias mais vendidas por ano.
 - **Detalhes**: Listar as 5 categorias mais vendidas de cada ano (Pode enviar um print da tela)
 
+A resposta pode ser um word com os scripts/prints da resolução dos exercícios ou os arquivos executáveis do SQL.
